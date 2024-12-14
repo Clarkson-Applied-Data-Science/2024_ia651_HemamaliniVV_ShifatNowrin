@@ -413,7 +413,7 @@ Each model was evaluated using the following metrics:
 Logistic Regression and Naive Bayes are the best model here with high accuracy , however all the models has predicted the examples give correctly according to their respective categories.
 
 
-### Technologies Used
+#### Technologies Used
 
 Python: Primary programming language.
 
