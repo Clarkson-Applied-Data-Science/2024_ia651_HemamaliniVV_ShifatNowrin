@@ -52,11 +52,11 @@ Data has been divided into training and testing where y is category and x is tex
 
 #### Distribution of Text Lengths
 
-![Distribution of Text Lengths](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Distribution of Text Lengths](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/Distribution%20of%20text%20lengths.png)
 
 #### Distribution of Word Counts
 
-![Distribution of Word Counts](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Distribution of Word Counts](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/Distribution%20of%20word%20counts.png)
 
 #### Category Distribution 
 
