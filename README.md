@@ -98,7 +98,7 @@ Logistic Regression was then trained on these vectors to predict the categories.
 Generated a classification report showing precision, recall, F1-score, and accuracy for each category.
 Confusion matrix visualized the misclassifications.
 
-![Classification Report for Logistic Regression](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Classification Report for Logistic Regression](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CR%20for%20Logistic%20Regression.png)
 
 ![Confusion Matrix for Logistic Regression](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
 
