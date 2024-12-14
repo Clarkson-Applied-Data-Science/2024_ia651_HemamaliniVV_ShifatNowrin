@@ -60,23 +60,23 @@ Data has been divided into training and testing where y is category and x is tex
 
 #### Category Distribution 
 
-![Category Distribution](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Category Distribution](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/Category%20Distribution.png)
 
 ## WORDCLOUD FOR CATEGORIES
 
-![TECHNOLOGY](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![TECHNOLOGY](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/WC%20technology.png)
 
 
-![bUSINESS](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![BUSINESS](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/WC%20business.png)
 
 
-![EDUCATION](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![EDUCATION](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/WC%20education.png)
 
 
-![SPORTS](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![SPORTS](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/WC%20sports.png)
 
 
-![ENTERTAINMENT](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![ENTERTAINMENT](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/WC%20entertainment.png)
 
 
 ## **MODELS IMPLEMENTED**
@@ -100,7 +100,7 @@ Confusion matrix visualized the misclassifications.
 
 ![Classification Report for Logistic Regression](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CR%20for%20Logistic%20Regression.png)
 
-![Confusion Matrix for Logistic Regression](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Confusion Matrix for Logistic Regression](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CM%20for%20Logistic%20regression.png)
 
 - Logistic Regression has 98% accuracy. From confusion matrix, we can see that mostly all categories are doing well with high accuracy.
 
@@ -120,9 +120,9 @@ The model calculated the probability of a given text belonging to each category 
 Similar metrics like precision, recall, F1-score, and accuracy were used to evaluate performance.
 Confusion matrix showed how well the model predicted each category.
 
-![Classification Report for Naive Bayes](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Classification Report for Naive Bayes](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CR%20for%20Naive%20Bayes.png)
 
-![Confusion Matrix for Naive Bayes](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Confusion Matrix for Naive Bayes](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CM%20for%20Naive%20Bayes.png)
 
 - Naive Bayes also has 98% accuracy. From confusion matrix, it is evident that entertainment category does very well whereas business category is little confused with technology but every category has very good accuracy.
 
@@ -143,9 +143,9 @@ Text Vectorization is implemented using Tensorflows.
 The classification report showed the model's performance in terms of precision, recall, and F1-score.
 The confusion matrix provided insights into the model's accuracy across all categories.
 
-![Classification Report for RNN](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Classification Report for RNN](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CR%20for%20RNN.png)
 
-![Confusion Matrix for RNN](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Confusion Matrix for RNN](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CM%20for%20RNN.png)
 
 - Recurrent Neural Network has 80% accuracy which is good but comparatively this is low. From confusion matrix, we can see that technology got confused with sports and entertainment. Also, entertainment got confused witg sportd and technology.Other three categories have good accuracy.
 
@@ -346,9 +346,9 @@ It computes the likelihood of the text belonging to each category and selects th
 Demonstrated with real-world examples and synthesized examples.
 Predictions were compared with true labels for evaluation.
 
-![Classification Report for Zero-Shot Classification](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Classification Report for Zero-Shot Classification](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CR%20for%20Zero-shot.png)
 
-![Confusion Matrix for Zero-Shot Classification](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_hemamalini_shifat/blob/main/Distribution%20of%20Age.png)
+![Confusion Matrix for Zero-Shot Classification](https://github.com/Clarkson-Applied-Data-Science/2024_ia651_HemamaliniVV_ShifatNowrin/blob/main/CM%20for%20Zero-Shot.png)
 
 ### Prediction using Zero-Shot Classification
 
